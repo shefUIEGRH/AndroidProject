@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void doYourUpdate(){
-        //TODO implement a refresh
+
         swipeRefresh.setRefreshing(false); //Disables the refresh icon
     }
 
